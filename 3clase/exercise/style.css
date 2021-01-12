@@ -1,0 +1,40 @@
+body { 
+    background: url("background.jpg") no-repeat fixed center ;
+ 
+
+  }
+ 
+ 
+  @media screen and (max-widht:800px){
+      body{
+          background-color: rgb(22, 145, 145);
+        }
+    }
+
+    h1{
+        font-size: 50px;
+        font-family: sans-serif;
+        color: black;
+        text-align: center;
+        }
+
+    th{
+        font-size: 20px;
+        font-family: sans-serif;
+        color: rgb(101, 67, 252);
+        text-align: center;
+        }
+    
+
+    td{
+        font-size: 15px;
+        font-family: sans-serif;
+        color: black;
+        text-align: center;
+        }
+
+        .center {
+            margin-left: auto;
+             margin-right: auto;
+         }
+          
